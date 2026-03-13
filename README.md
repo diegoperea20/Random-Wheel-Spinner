@@ -2,6 +2,13 @@
 
 A modern, interactive random wheel spinner built with Next.js, TypeScript, and Tailwind CSS. Create custom wheels with your own items and spin to get random results with smooth animations and a beautiful UI.
 
+
+<p align="center">
+  <img src="README-images/randomeWheel.png" alt="Random Wheel">
+</p>
+
+
+
 ## ✨ Features
 
 - **🎯 Custom Wheel Creation**: Add unlimited custom items to your wheel
